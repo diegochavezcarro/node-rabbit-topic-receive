@@ -1,0 +1,22 @@
+{
+  "name": "rabbit-topic-receive",
+  "version": "1.0.0",
+  "description": "Receiving RabbitMQ Topics with Node JS",
+  "main": "receive_logs_topic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegochavezcarro/node-rabbit-topic-receive.git"
+  },
+  "author": "diegochavezcarro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegochavezcarro/node-rabbit-topic-receive/issues"
+  },
+  "homepage": "https://github.com/diegochavezcarro/node-rabbit-topic-receive#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
